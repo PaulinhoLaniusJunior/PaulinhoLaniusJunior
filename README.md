@@ -1,7 +1,7 @@
 <h1 align="left">About Me</h1>
 
 ###
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Back-end`**
 <p align="left">Olá! Eu sou o Paulinho Lanius Junior 🖐️, tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCGO.</p>
 
 ###
